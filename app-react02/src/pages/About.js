@@ -2,13 +2,20 @@ import React from 'react';
 import logo from '../styles/logo.svg';
 import '../styles/App.css';
 
-function About() {
+function About(props) {
     return (
         <div className="App">
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
+                {console.log(props)}
                 <p>
-                    Esta pagina é o sobre do Aplicativo ReactJS!
+                  Eu sou um {props.user.employerInfo.carrer}  
+                </p>
+                <p>
+                Meu nome é {props.user.personalInfo.nome}
+                </p>
+                <p>
+                    Esta pagina é o sobre do Aplicativo ReactJS! 
                 </p>
                 <a
                     className="App-link"
