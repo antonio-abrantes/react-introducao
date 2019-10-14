@@ -1,0 +1,28 @@
+{
+  "videos":[
+    {
+      "id": 1,
+      "img": "https://storage.coverr.co/thumbnails/Gubat Beach",
+      "name": "Gubat Beach",
+      "url": "https://storage.coverr.co/videos/Gubat%20Beach?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjExNDMyN0NEOTRCMUFCMTFERTE3IiwiaWF0IjoxNTcwODk3NDAxfQ.N2S_nFyY_fcPpxabrrcYhYU20A2RSstyzjiPlTt25mA"
+    },
+    {
+      "id": 2,
+      "img": "https://storage.coverr.co/thumbnails/Palm_Trees",
+      "name": "Palm Trees",
+      "url": "https://storage.coverr.co/videos/Palm_Trees?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjExNDMyN0NEOTRCMUFCMTFERTE3IiwiaWF0IjoxNTcwODk3NDAxfQ.N2S_nFyY_fcPpxabrrcYhYU20A2RSstyzjiPlTt25mA"
+    },
+    {
+      "id": 3,
+      "img": "https://storage.coverr.co/thumbnails/Blue Joy",
+      "name": "Blue Joy",
+      "url": "https://storage.coverr.co/videos/Blue%20Joy?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjExNDMyN0NEOTRCMUFCMTFERTE3IiwiaWF0IjoxNTcwODk3NDAxfQ.N2S_nFyY_fcPpxabrrcYhYU20A2RSstyzjiPlTt25mA"
+    },
+    {
+      "id": 4,
+      "img": "https://storage.coverr.co/thumbnails/Forrest Beach Ocean",
+      "name": "Forrest Beach Ocean",
+      "url": "https://storage.coverr.co/videos/Forrest%20Beach%20Ocean?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjExNDMyN0NEOTRCMUFCMTFERTE3IiwiaWF0IjoxNTcwODk3NDAxfQ.N2S_nFyY_fcPpxabrrcYhYU20A2RSstyzjiPlTt25mA"
+    }
+  ]
+}
